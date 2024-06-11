@@ -41,8 +41,8 @@ class PgSpider(scrapy.Spider):
 
                 url_original = f'https://www.pg.unicamp.br/norma/{link_id_0}/{link_id_1}'
                 item_data['url_ori'] = url_original
-                url_conso = f'https://www.pg.unicamp.br/norma/{link_id_0}/{1}'
-                item_data['url_conso'] = url_conso
+                #url_conso = f'https://www.pg.unicamp.br/norma/{link_id_0}/{1}'
+                #item_data['url_conso'] = url_conso
 
                 request_original = scrapy.Request(url_original, callback=self.parse_info_original, errback=self.handle_error)
                 request_original.cb_kwargs['item_data'] = item_data  # Pass data already collected to the next method
@@ -54,8 +54,11 @@ class PgSpider(scrapy.Spider):
         info_original = response.xpath('//body//text()').getall()
         info_original = ' '.join(info_original).strip()
 
-        red_elements = response.xpath('//div[contains(@style, "#DC3545")]')
-        contains_revoga_in_red = any("revoga" in text.extract().lower() for text in red_elements)
+        red_elements = response.css('div.text-danger').getall()
+
+        #red_elements = response.xpath('//div[contains(@style, "color: #DC3545")]')
+        #red_elements = response.xpath('//div.text-danger.fw-bold.style[contains(@style, "color: #DC3545")]')
+        contains_revoga_in_red = any("revoga" in text.lower() for text in red_elements)
 
         # Here you can implement your condition to decide whether to make the second request
         if not contains_revoga_in_red:
@@ -65,7 +68,7 @@ class PgSpider(scrapy.Spider):
             request_conso.cb_kwargs['item_data'] = item_data
             yield request_conso  # Emit the second request only if the condition is met
 
-        if not red_elements:
+        if len(red_elements) == 0:
             item_data['info_original'] = info_original
             self.items.append(item_data)
 
@@ -77,5 +80,5 @@ class PgSpider(scrapy.Spider):
 
 
     def closed(self, reason):
-        with open('output_prof3_v10_2.json', 'w') as file:
+        with open('output_prof3_v10_4.json', 'w') as file:
             json.dump(self.items, file, ensure_ascii=False, indent=4)
