@@ -44,7 +44,7 @@ class PgSpider(scrapy.Spider):
                 #url_conso = f'https://www.pg.unicamp.br/norma/{link_id_0}/{1}'
                 #item_data['url_conso'] = url_conso
 
-                request_original = scrapy.Request(url_original, callback=self.parse_info_original, errback=self.handle_error)
+                request_original = scrapy.Request(url_original, callback=self.parse_info_original)
                 request_original.cb_kwargs['item_data'] = item_data  # Pass data already collected to the next method
                 yield request_original
  
@@ -72,13 +72,43 @@ class PgSpider(scrapy.Spider):
             item_data['info_original'] = info_original
             self.items.append(item_data)
 
-    def parse_info_conso(self, response, item_data):
+    def parse_info_conso_v0(self, response, item_data):
         info_conso = response.xpath('//body//text()').getall()
         info_conso = ' '.join(info_conso).strip()
         item_data['info_conso'] = info_conso
         self.items.append(item_data)
 
+    
+    def parse_info_conso(self, response, item_data):
+        # Primeiro, pega todos os textos
+        all_texts = response.xpath('//body//text()').getall()
+
+        # Depois, remove os textos que estão dentro de elementos com role="delection"
+        slashed_texts = response.xpath('//s/text()').getall()
+
+        # Filtra os textos para remover aqueles que foram marcados para exclusão
+        filtered_texts = [text for text in all_texts if text not in slashed_texts]
+
+        # Concatena os textos remanescentes e limpa o resultado
+        filtered_text = ' '.join(filtered_texts).strip()
+
+        # Adiciona o texto filtrado ao item
+        item_data['info_conso'] = filtered_text
+        self.items.append(item_data)
+
+    def parse_info_conso_v1(self, response, item_data):
+        # Select all text nodes that are not descendants of <s> tags
+        all_texts_except_slashed = response.xpath('//body//*[not(ancestor::s)]/text()').getall()
+
+        # Concatenate and clean the text
+        filtered_text = ' '.join(all_texts_except_slashed).strip()
+
+        # Add the filtered text to the item data
+        item_data['info_conso'] = filtered_text
+        self.items.append(item_data)
+
+
 
     def closed(self, reason):
-        with open('output_prof3_v10_4.json', 'w') as file:
+        with open('output_prof3_v10_5.json', 'w') as file:
             json.dump(self.items, file, ensure_ascii=False, indent=4)
