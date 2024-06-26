@@ -1,0 +1,562 @@
+[
+     {
+          "question": "Em quais hipóteses a Procuradoria Geral pode exercer a representação judicial e extrajudicial de servidores da UNICAMP?",
+          "ground_truths": [
+               "A Procuradoria Geral da UNICAMP integra a Advocacia Pública e está vinculada à Procuradoria Geral do Estado, para fins de atuação uniforme e coordenada, nos termos do artigo 101 da Constituição Estadual. Além disso, é o órgão de representação jurídica da Universidade e de assessoramento jurídico da Reitoria, consoante prevê o artigo 95 do Regimento Geral da UNICAMP. Desta forma, conforme previsão regimental, a Procuradoria Geral tem a função institucional de defender os interesses da universidade, enquanto autarquia estadual, estritamente vinculada ao atendimento do interesse público. A representação judicial ou extrajudicial de servidor com vínculo funcional permanente poderá ocorrer em caráter excepcional, nas hipóteses em que o ato impugnado decorrer do exercício de suas atribuições constitucionais, legais ou regulamentares, quando o ato praticado tiver seguido a orientação jurídica da Procuradoria e desde que não haja conflito de interesses, sempre com autorização expressa do Reitor."
+          ],
+          "answer": "Não há hipóteses em que a Procuradoria Geral possa exercer a representação judicial e extrajudicial de servidores da UNICAMP.",
+          "contexts": [
+               "De acordo com o trecho 'IX - exerce r outras funções que lhe forem conferidas, desde que compatíveis com sua finalidade, sendo-lhe vedada a representação judicial e a consultoria jurídica de entidades públicas' de [Constituição Federal], a representação judicial e consultoria jurídica de entidades públicas é vedada ao Ministério Público. Além disso, não há nenhum trecho nos documentos que indique que a Procuradoria Geral do Estado pode exercer a representação judicial e extrajudicial de servidores da UNICAMP."
+          ],
+          "answer_relevancy": 0.6556780801424308,
+          "faithfulness": 1.0,
+          "context_recall": 0.0,
+          "context_precision": 0.0
+     },
+     {
+          "question": "Como ocorrem as atividades de cooperação, pesquisa, ensino, extensão e prestação de serviços entre a Unicamp e terceiros, pessoas físicas ou jurídicas?",
+          "ground_truths": [
+               "Nos termos do art. 1° da Deliberação CONSU-A-016/2022, a atuação da Universidade em atividades de cooperação, pesquisa, ensino, extensão e prestação de serviços junto a terceiros, pessoas físicas ou jurídicas, deve ocorrer mediante prévia celebração de convênios, contratos e instrumentos similares."
+          ],
+          "answer": "mediante a celebração de convênios, contratos e instrumentos similares.",
+          "contexts": [
+               "De acordo com o trecho 'A atuação da Universidade em atividades de cooperação, pesquisa, ensino, extensão e prestação de serviços junto a terceiros, pessoas físicas ou jurídicas, deve ocorrer mediante prévia celebração de convênios, contratos e instrumentos similares, disciplinada na presente Deliberação' de [Deliberação CONSU-A-016/2022], as atividades de cooperação, pesquisa, ensino, extensão e prestação de serviços entre a Unicamp e terceiros, pessoas físicas ou jurídicas, ocorrem mediante a celebração de convênios, contratos e instrumentos similares."
+          ],
+          "answer_relevancy": 0.49124808474606474,
+          "faithfulness": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "Qual é o procedimento para a celebração de convênios, contratos e instrumentos similares relativos às atividades de cooperação, pesquisa, ensino, extensão e prestação de serviços pela Unicamp?",
+          "ground_truths": [
+               "Na Unicamp, a celebração de convênios, contratos e instrumentos similares (aqui sempre referidos como “convênios”) é regulamentada pela Deliberação CONSU-A-016/2022. O servidor responsável pela proposta de convênio deve providenciar a abertura de um processo administrativo na Unidade ou Órgão onde a atividade principal será realizada, instruí-lo com os documentos indicados e tramitá-lo conforme o disposto na Deliberação CONSU-A-016/2022. Ao final da tramitação, se devidamente aprovado em todas as instâncias, o convênio será encaminhado para assinatura da autoridade competente."
+          ],
+          "answer": "Abertura de processos administrativos eletrônicos nas Unidades de Ensino e Pesquisa, Centros, Núcleos ou Órgãos onde a atividade principal será realizada, com apresentação de documentos específicos.",
+          "contexts": [
+               "De acordo com o trecho 'CAPÍTULO I – DISPOSIÇÕES PRELIMINARES Artigo 1°  – A atuação da Universidade em atividades de cooperação, pesquisa, ensino, extensão e prestação de serviços junto a terceiros, pessoas físicas ou jurídicas, deve ocorrer mediante prévia celebração de convênios, contratos e instrumentos similares, disciplinada na presente Deliberação.' de [Deliberação CONSU-A-016/2022] e o trecho 'CAPÍTULO II – DA TRAMITAÇÃO DOS CONVÊNIOS Seção I – Da Abertura e Instrução dos Processos Artigo 2º  – As propostas de convênios, contratos e instrumentos similares relativos às atividades de cooperação, pesquisa, ensino, extensão e prestação de serviços a serem celebrados pela Universidade, aqui denominados pela forma geral “convênios”, terão início em processos administrativos eletrônicos abertos nas Unidades de Ensino e Pesquisa, Centros, Núcleos ou Órgãos onde a atividade principal será realizada e deverão conter, no mínimo: ...' de [Deliberação CONSU-A-016/2022], o procedimento para a celebração de convênios, contratos e instrumentos similares relativos às atividades de cooperação, pesquisa, ensino, extensão e prestação de serviços pela Unicamp é disciplinado pela Deliberação CONSU-A-016/2022 e envolve a abertura de processos administrativos eletrônicos nas Unidades de Ensino e Pesquisa, Centros, Núcleos ou Órgãos onde a atividade principal será realizada, com a apresentação de documentos específicos, como proposta de convênio, plano de trabalho, documento constitutivo da empresa ou instituição envolvida, entre outros."
+          ],
+          "answer_relevancy": 0.5232293884553646,
+          "faithfulness": 0.5,
+          "context_recall": 0.6666666666666666,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "Qual é o sistema utilizado para a tramitação dos convênios?",
+          "ground_truths": [
+               "Os documentos essenciais estão elencados no art. 2º da Deliberação CONSU-A-016/2022. É importante que o Executor tenha em mente que estes são os documentos mínimos necessários, mas dependendo do objeto do convênio, outros documentos podem ser demandados. O processo do convênio deve se iniciar com o documento de apresentação da proposta elaborado por seu Executor, com a indicação dos motivos pelos quais apresenta a proposta e por que entende que sua celebração é conveniente e oportuna para a Universidade. A apresentação da proposta deve ser seguida dos demais documentos elencados no mencionado artigo 2º, além de outros documentos que forem pertinentes ao seu objeto. É importante que no sistema SIAD os documentos sejam incluídos separadamente e não num único arquivo. Sempre que o convênio fizer referência a um documento, este documento deverá ser incluído no processo, para que possa ser consultado. Quanto mais completa for a instrução do processo, mais célere será sua tramitação nas instâncias da Universidade."
+          ],
+          "answer": "Processos administrativos eletrônicos.",
+          "contexts": [
+               "De acordo com o trecho 'As propostas de convênios, contratos e instrumentos similares relativos às atividades de cooperação, pesquisa, ensino, extensão e prestação de serviços a serem celebrados pela Universidade, aqui denominados pela forma geral “convênios”, terão início em processos administrativos eletrônicos abertos nas Unidades de Ensino e Pesquisa, Centros, Núcleos ou Órgãos onde a atividade principal será realizada...' de [Deliberação CONSU-A-016/2022], os processos de convênios são tramitados por meio de processos administrativos eletrônicos."
+          ],
+          "answer_relevancy": 0.2589563100444247,
+          "faithfulness": 1.0,
+          "context_recall": 0.125,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "O que é o Plano de Aplicação de Recursos?",
+          "ground_truths": [
+               "O Plano de Aplicação de Recursos é o documento que indica as rubricas de despesas em que os recursos recebidos para a execução do convênio serão aplicados. Ele costuma ser apresentado no formato de uma planilha, que contém todas as rubricas e os valores (ou percentuais, no caso de convênios celebrados sem valor fixo). O Plano de Aplicação de Recursos deve ser o mais completo possível e além das rubricas principais (recursos humanos, aquisição de materiais, contratação de serviços, etc.), deve conter desmembramentos, como, por exemplo: em caso de pagamento de recursos humanos, essa rubrica deve ser desmembrada para indicar quem serão os beneficiários dos recursos, em caso de aquisição de materiais, para indicação dos bens que serão adquiridos, em caso de contração de serviços, para indicação dos tipos de serviços que serão contratados, e assim por diante."
+          ],
+          "answer": "Documento que indica as rubricas de despesas em que os recursos recebidos para a execução do convênio serão aplicados.",
+          "contexts": [
+               "De acordo com o trecho 'O Plano de Aplicação de Recursos é o documento que indica as rubricas de despesas em que os recursos recebidos para a execução do convênio serão aplicados. Ele costuma ser apresentado no formato de uma planilha, que contém todas as rubricas e os valores (ou percentuais, no caso de convênios celebrados sem valor fixo)' de [nan1], o Plano de Aplicação de Recursos é um documento que indica as rubricas de despesas em que os recursos recebidos para a execução do convênio serão aplicados."
+          ],
+          "answer_relevancy": 0.7513399706074346,
+          "faithfulness": 1.0,
+          "context_recall": 0.6666666666666666,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "Quem pode ser executor de um convênio e quais são as suas atribuições/responsabilidades?",
+          "ground_truths": [
+               "Nos termos do art. 18, §1° da Deliberação CONSU-A-016/2022, o executor e o(s) executor(es) substituto(s) de convênio devem ser servidores ativos da Unicamp, de qualquer das carreiras, desde que estejam diretamente envolvidos na execução das atividades previstas no convênio. O executor principal é o servidor responsável pela apresentação da proposta de convênio e o(s) executor(es) substituto(s) será indicado pelo executor principal dentre os servidores membros da equipe executora.O executor principal e o(s) executor(es) substituto(s) deverão ser indicados em formulário específico no processo eletrônico, que será aprovado pelas instâncias competentes juntamente com o convênio. As atribuições e responsabilidades dos executores constam dos arts. 18 e 19 da Deliberação CONSU-A-016/2022. No decorrer do convênio, se for necessária a substituição de algum executor, deverá ocorrer mediante preenchimento de novo formulário no processo eletrônico, com encaminhamento à Chefia de Gabinete para aprovação."
+          ],
+          "answer": "Os servidores ativos da Unicamp que estejam diretamente envolvidos na execução das atividades previstas no convênio podem ser executores de um convênio, e suas atribuições e responsabilidades incluem obter e instruir o processo, garantir regular tramitação, cumprir as cláusulas contratuais, ordenar as despesas, entre outras.",
+          "contexts": [
+               "De acordo com o trecho 'Poderão figurar como executor ou executor substituto de convênio servidores ativos da Unicamp, de qualquer das carreiras, desde que estejam diretamente envolvidos na execução das atividades previstas no Convênio' de [Deliberação CONSU-A-016/2022], os servidores ativos da Unicamp que estejam diretamente envolvidos na execução das atividades previstas no convênio podem ser executores de um convênio. Além disso, de acordo com o trecho 'Todo convênio deverá ter um executor principal e ao menos um executor substituto, indicado pelo executor principal dentre os servidores membros da equipe executora, que, sem prejuízo das competências e atribuições específicas previstas no convênio, serão individualmente responsáveis por...' de [Deliberação CONSU-A-016/2022], os executores de um convênio têm várias atribuições e responsabilidades, incluindo obter e instruir o processo com toda documentação pertinente ao convênio, garantir regular tramitação do processo de convênio no âmbito da Unicamp, cumprir as cláusulas contratuais, ordenar as despesas de acordo com os objetivos e normas do convênio, entre outras."
+          ],
+          "answer_relevancy": 0.5159830408457122,
+          "faithfulness": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "Quem é a autoridade competente para assinatura dos convênios?",
+          "ground_truths": [
+               "Como regra, a autoridade competente para assinatura de instrumentos de convênio e suas alterações, na qualidade de representante legal da Universidade, é o Reitor. Há hipóteses em que esta competência para assinatura dos instrumentos é delegada a outras autoridades. Estas hipóteses de delegação de competência estão previstas no art. 9° da Deliberação CONSU-A-016/2022 e são as seguintes:"
+          ],
+          "answer": "Pró-Reitor de Graduação, Pró-Reitor de Pós-Graduação, Pró-Reitor de Pesquisa, Diretor Executivo de Relações Internacionais, Diretor Executivo da Inova ou seu Diretor Associado e Coordenador do SAE.",
+          "contexts": [
+               "De acordo com o trecho 'Artigo 9º  – Fica delegada competência às seguintes autoridades para assinatura dos convênios e das alterações decorrentes: I  – ao Pró-Reitor de Graduação, para o convênio previsto no inciso II do artigo 7º; II  – ao Pró-Reitor de Pós-Graduação, para o convênio previsto no inciso III do artigo 7º; III  – ao Pró-Reitor de Pesquisa, para o convênio previsto no inciso I, alínea “a” do artigo 7º; IV  – ao Diretor Executivo de Relações Internacionais, para o convênio previsto no inciso I, alínea “b” do artigo 7º; V  – ao Diretor Executivo da Inova ou seu Diretor Associado, para os convênios previstos no inciso I, alíneas “g”, “h” e “i” do artigo 7º, que também deverão ser assinados pelos professores e pesquisadores da Universidade diretamente interessados, na qualidade de anuentes; e VI  – ao Coordenador do SAE, para os estágios de alunos dos cursos de graduação previsto no inciso I, alíneas “e” e “f”, do artigo 7º e do artigo 8º' de [Deliberação CONSU-A-016/2022], as autoridades competentes para assinatura dos convênios são o Pró-Reitor de Graduação, o Pró-Reitor de Pós-Graduação, o Pró-Reitor de Pesquisa, o Diretor Executivo de Relações Internacionais, o Diretor Executivo da Inova ou seu Diretor Associado e o Coordenador do SAE."
+          ],
+          "answer_relevancy": 0.3588517798814403,
+          "faithfulness": 1.0,
+          "context_recall": 0.6666666666666666,
+          "context_precision": 0.0
+     },
+     {
+          "question": "Existe uma tramitação simplificada para aprovação dos convênios?",
+          "ground_truths": [
+               "Sim, o art. 7º da Deliberação CONSU-A-016/2022 estabeleceu uma tramitação simplificada para a aprovação de alguns convênios, em que a aprovação pela CAD ou CEPE fica dispensada, dependendo apenas da aprovação da CACC, desde que o convênio verse sobre as seguintes matérias: a) transferência de material (TTM ou MTA);b) cooperação acadêmica internacional que não envolva recursos financeiros;c) parcerias comerciais do GGBS com instituições de ensino superior e entidades comerciais, exceto convênios com planos ou seguro de saúde e odontológicos e com instituições financeiras para empréstimo consignado, que seguem a tramitação prevista nos artigos 3º a 6º desta Deliberação;d) memorandos de entendimentos e cartas de intenção;e) estágios nacionais de alunos, não obrigatórios e remunerados, que não utilizem a minuta padrão pré-aprovada pela Procuradoria Geral;f) estágios nacionais de alunos, obrigatórios e não remunerados, quando as partes optarem pela celebração de convênio;g) ajustes de propriedade intelectual;h) termos e acordos de confidencialidade;i) cartas de acordo ou anuência decorrentes de participação da Unicamp em programas de instituições de fomento, que tenham por finalidade apenas a declaração de observância das políticas de propriedade intelectual das instituições participantes.Além disso, convênios que tratem do duplo diploma ou co-tutela da pós-graduação dependem apenas da aprovação da Comissão Central de Graduação – CCG ou da Comissão Central de Pós-Graduação – CCPG, respectivamente."
+          ],
+          "answer": "sim",
+          "contexts": [
+               "De acordo com o trecho 'Artigo 7º  – Ficam estabelecidas as seguintes tramitações simplificadas para os convênios: I  – Estão dispensados de submissão à CAD e Cepe, dependendo apenas da aprovação pela Cacc, os processos cujos convênios tenham por objeto as seguintes matérias...' de [Deliberação CONSU-A-016/2022], há uma tramitação simplificada para aprovação dos convênios que envolvem determinadas matérias, como transferência de material, cooperação acadêmica internacional, parcerias comerciais, entre outros."
+          ],
+          "answer_relevancy": 0.4176199348804947,
+          "faithfulness": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "Quando se deve utilizar um Termo Aditivo a um Convênio?",
+          "ground_truths": [
+               "Em razão da inexistência de uma única lei ou código que padronize a denominação dos instrumentos, é comum ocorrer confusão com relação aos diversos instrumentos denominados de várias formas, tais como termos aditivos, termos de aditamento, emendas, termos de retirratificação, dentre outros. Em suma, independentemente do nome que se dê ao instrumento, se ele tiver por finalidade alterar os termos do convênio vigente (ex: prorrogar o prazo de vigência, alterar o Plano de Trabalho, acrescentar ou suprimir recursos), deve ser tramitado como um Termo Aditivo dentro do mesmo processo administrativo do convênio. Mas se sua finalidade for o estabelecimento de um Plano de Trabalho específico vinculado a um convênio de ampla cooperação, deve ser tramitado em processo administrativo próprio, utilizando-se o caminho FORMALIZAÇÃO/NOVO CONVÊNIO/TERMO ADITIVO."
+          ],
+          "answer": "Quando há necessidade de alterar os termos do convênio vigente.",
+          "contexts": [
+               "De acordo com o trecho 'Em suma, independentemente do nome que se dê ao instrumento, se ele tiver por finalidade alterar os termos do convênio vigente (ex: prorrogar o prazo de vigência, alterar o Plano de Trabalho, acrescentar ou suprimir recursos), deve ser tramitado como um Termo Aditivo dentro do mesmo processo administrativo do convênio' de [nan2], um Termo Aditivo deve ser utilizado quando há a necessidade de alterar os termos do convênio vigente."
+          ],
+          "answer_relevancy": 0.696982538038165,
+          "faithfulness": 1.0,
+          "context_recall": 0.3333333333333333,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "É possível que o convênio preveja o pagamento de bolsas de estímulo à inovação?",
+          "ground_truths": [
+               "Sim, a concessão de bolsas estímulo à inovação pela Unicamp foi regulamentada pela Resolução GR-075/2020 e, desde sua entrada em vigor, é possível que os convênios prevejam o seu pagamento para servidores ativos docentes; servidores ativos da Carreira PAEPE, desde que não tenham função na área administrativa; servidores ativos da Carreira Pesquisador; estudantes dos colégios técnicos, de graduação ou pós-graduação stricto sensu da Unicamp regularmente matriculados e pesquisadores do Programa de Pesquisador Visitante Convidado, previsto pela Deliberação CONSU-A-017/2020. A concessão das bolsas somente poderá ocorrer se todos os requisitos previstos na Resolução GR-075/2020 forem observados. Dentre todos os requisitos e vedações contidos na Resolução GR-075/2020, dois merecem destaque: (i) as bolsas devem estar expressamente previstas nos Planos de Trabalhos dentro dos termos de convênios e (ii) antes da aprovação do projeto de pesquisa pelo órgão colegiado superior da Unidade, Centro, Núcleo ou Órgão, o mesmo deverá ser submetido à Agência de Inovação da Unicamp - INOVA, que deverá analisar e atestar que a bolsa proposta será concedida para atividade de pesquisa científica e tecnológica e de desenvolvimento de tecnologia, produto, serviço ou processo inovadores e a transferência e a difusão de tecnologia e que atendem as determinações da Lei nº 10.973/2004, emitindo parecer."
+          ],
+          "answer": "sim",
+          "contexts": [
+               "De acordo com o trecho 'Artigo 8º  - As bolsas de estímulo à inovação previstas nesta Resolução serão concedidas exclusivamente com recursos oriundos de convênios e contratos celebrados com a Universidade.' de [Resolução GR-075/2020], é possível que o convênio preveja o pagamento de bolsas de estímulo à inovação."
+          ],
+          "answer_relevancy": 0.005983934438144299,
+          "faithfulness": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "Como ocorre a tramitação de convênio com instituição internacional que aceita a gestão dos recursos pela fundação de apoio (Funcamp), mas exige que só esta fundação figure como parte na minuta?",
+          "ground_truths": [
+               "A tramitação de convênio que só tenha a fundação de apoio como parte deverá observar o disposto no art. 10 da Deliberação CONSU-A-016/2022. Em suma, serão seguidas as mesmas regras para a tramitação em que a Unicamp figura como parte (uma vez que a execução será realizada pela equipe da Unicamp), mas ao final o processo retornará à Unidade ou Órgão de origem, para que seja remetido à fundação, para assinatura."
+          ],
+          "answer": "Formalizado nos termos do artigo 2º e tramitação prevista nos artigos 3º a 6º da Deliberação CONSU-A-016/2022.",
+          "contexts": [
+               "De acordo com o trecho 'O processo de convênio em que a Universidade for responsável pelo desenvolvimento das atividades, mas não figure como parte signatária em razão de exigência feita pela instituição concedente de que o convênio seja assinado somente com a Funcamp, por ser a destinatária dos recursos, deverá ser formalizado nos termos do artigo 2º e seguirá a tramitação prevista nos artigos 3º a 6º, todos desta Deliberação' de [Deliberação CONSU-A-016/2022], a tramitação de convênio com instituição internacional que aceita a gestão dos recursos pela fundação de apoio (Funcamp), mas exige que só esta fundação figure como parte na minuta, segue a tramitação prevista nos artigos 3º a 6º da Deliberação CONSU-A-016/2022."
+          ],
+          "answer_relevancy": 0.30053152290597024,
+          "faithfulness": 1.0,
+          "context_recall": 0.6666666666666666,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "A execução foi concluída. Como se encerra o processo de convênio?",
+          "ground_truths": [
+               "O encerramento do processo deverá ocorrer após a apresentação da prestação de contas e do relatório final de atividades pelo executor e sua respectiva aprovação pelas instâncias indicadas no art. 13 da Deliberação CONSU-A-016/2022. Uma vez aprovados a prestação de contas e o relatório final de atividades, o processo deverá ser encerrado pelo executor. Observe-se que esta prestação de contas ocorre internamente na Universidade e não se confunde com a prestação de contas ao concedente dos recursos, que deverá observar as normas específicas que lhe forem aplicáveis'."
+          ],
+          "answer": "O processo é encaminhado à Administração Superior para submissão às instâncias da Procuradoria Geral, Cacc, CAD ou Cepe e Consu.",
+          "contexts": [
+               "De acordo com o trecho 'Concluída a aprovação na Unidade ou Órgão, o processo deverá ser encaminhado à Administração Superior, para submissão às seguintes instâncias: I  – Procuradoria Geral; II  – Comissão para Análise de Convênios e Contratos – Cacc; III  – Câmara de Administração – CAD ou Câmara de Ensino, Pesquisa e Extensão – Cepe, conforme natureza do convênio; IV  – Conselho Universitário – Consu, conforme o caso.' de [Deliberação CONSU-A-016/2022], Artigo 6º, o processo de convênio é encerrado com a submissão às instâncias da Administração Superior."
+          ],
+          "answer_relevancy": 0.2479647883723426,
+          "faithfulness": 1.0,
+          "context_recall": 0.25,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "As manifestações emitidas por servidores, docentes e pesquisadores da UNICAMP em decorrência de convênios, contratos, assessorias, perícias ou análises correspondem à opinião da Universidade?",
+          "ground_truths": [
+               "Não. Nos termos da Deliberação CAD-A-04/2003 os servidores que, devidamente autorizados, emitirem parecer decorrente de convênios, contratos, consultorias, assessorias, perícias, ensaios e análises, deverão fazer constar na página de rosto do relatório resultante a frase: 'O conteúdo e as conclusões aqui apresentados são de responsabilidade exclusiva do(s) autor(es) e não representam a opinião da Universidade Estadual de Campinas nem a comprometem."
+          ],
+          "answer": "Não",
+          "contexts": [
+               "De acordo com o trecho 'Não. Nos termos da Deliberação CAD-A-04/2003 os servidores que, devidamente autorizados, emitirem parecer decorrente de convênios, contratos, consultorias, assessorias, perícias, ensaios e análises, deverão fazer constar na página de rosto do relatório resultante a frase: 'O conteúdo e as conclusões aqui apresentados são de responsabilidade exclusiva do(s) autor(es) e não representam a opinião da Universidade Estadual de Campinas nem a comprometem.' de [Deliberação CAD-A-04/2003], as manifestações emitidas por servidores, docentes e pesquisadores da UNICAMP em decorrência de convênios, contratos, assessorias, perícias ou análises não correspondem à opinião da Universidade."
+          ],
+          "answer_relevancy": 0.49243060748539436,
+          "faithfulness": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "Qual procedimento deve ser adotado para utilização do logotipo da UNICAMP?",
+          "ground_truths": [
+               "A Resolução GR-028/2004 condiciona o uso da marca UNICAMP e do seu logotipo em papéis, documentos, tecidos, plásticos, adesivos e impressos em geral, bem como em outros objetos não oficiais da Universidade, à autorização, por escrito, da Reitoria. Portanto, havendo interesse na utilização do logotipo da UNICAMP, o pedido deverá ser justificado e encaminhado para avaliação e decisão da Reitoria. A decisão é de mérito administrativo e não necessita de avaliação jurídica da Procuradoria, salvo situações específicas que eventualmente demandem alguma análise mais aprofundada."
+          ],
+          "answer": "Obedecer às exigências de forma e à orientação da Supervisão de Organização e Métodos do Centro de Computação da Universidade.",
+          "contexts": [
+               "De acordo com o trecho 'Artigo 1º - A inserção do logotipo da Universidade em papéis, documentos e impressos oficiais obedecerá as seguintes exigências: ...' de [Portaria GR-034/1995], a inserção do logotipo da UNICAMP deve obedecer às exigências de forma, como a combinação de dois elementos: a sigla UNICAMP e um desenho esquemático da planta básica da Universidade. Além disso, o trecho 'Artigo 2º - A inserção autorizada da marca da UNICAMP e seu logotipo em documentos, plásticos, tecidos e demais materiais, obedecerão, quanto à forma de utilização, a orientação da Supervisão de Organização e Métodos do Centro de Computação da Universidade.' de [Portaria GR-034/1995] estabelece que a inserção autorizada do logotipo deve obedecer à orientação da Supervisão de Organização e Métodos do Centro de Computação da Universidade."
+          ],
+          "answer_relevancy": 0.4982934801621866,
+          "faithfulness": 1.0,
+          "context_recall": 0.0,
+          "context_precision": 0.0
+     },
+     {
+          "question": "Quais as condições e a forma de utilização da marca UNICAMP e de seu logotipo?",
+          "ground_truths": [
+               "A Portaria GR-034/1995 dispõe sobre as condições e a forma de utilização da marca UNICAMP e seu logotipo, no âmbito interno da Universidade (forma, cores e posicionamento)."
+          ],
+          "answer": "Condições e forma de utilização da marca UNICAMP e seu logotipo disciplinadas pela Portaria GR-034/1995.",
+          "contexts": [
+               "De acordo com a [Portaria GR-034/1995], as condições e forma de utilização da marca UNICAMP e seu logotipo são disciplinadas nos artigos 1º, 2º, 3º e 4º. O logotipo é composto pela marca nominativa (sigla UNICAMP) e marca figurativa (desenho esquemático da planta básica da Universidade). A marca nominativa segue um desenho próprio e especial, criado a partir do alfabeto Micrograma Bold Roman, em maiúsculas e não deve ser reproduzida através de reprodução gráfica, nem a partir de originais ou desenhos não autorizados. A marca figurativa não deve ser estilizada e nem reproduzida a partir de originais ou desenhos não autorizados. Além disso, a inserção do logotipo em papéis, documentos e impressos oficiais deve obedecer às exigências de forma, cor e posicionamento estabelecidas na portaria."
+          ],
+          "answer_relevancy": 0.3753744905890004,
+          "faithfulness": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "É possível estilizar o logo da UNICAMP?",
+          "ground_truths": [
+               "Não. Nos termos da Portaria GR-034/1995, a marca figurativa, por sua importância como sinal característico da identidade visual da UNICAMP, não deve ser estilizada e nem reproduzida a partir de originais ou desenhos não autorizados."
+          ],
+          "answer": "Não há informação suficiente para responder à pergunta.",
+          "contexts": [
+               "Não há menção à estilização do logo da UNICAMP em nenhum dos documentos fornecidos."
+          ],
+          "answer_relevancy": 0.0,
+          "faithfulness": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "As unidades e órgãos universitários podem utilizar logotipo próprio?",
+          "ground_truths": [
+               "Nos termos do artigo 4º da Portaria GR-034/1995, as unidades universitárias que, por razões de identificação, utilizam ou venham a querer utilizar logotipo próprio em seus impressos de circulação interna ou externa à Universidade, deverão submeter o assunto ao Conselho Universitário."
+          ],
+          "answer": "Sim, em caráter excepcional e após aprovação do Conselho Universitário.",
+          "contexts": [
+               "De acordo com o trecho 'Artigo 4º - As unidades universitárias que por razões de identificação utilizam ou venham a querer utilizar logotipo próprio em seus impressos de circulação interna ou externa à Universidade, deverão submeter o assunto ao Conselho Universitário, em caráter excepcional, e após ouvir a Supervisão de Organização e Métodos do Centro de Computação, decidirá quanto à conveniência e oportunidade de inserir logotipo específico' de [Portaria GR-034/1995], as unidades universitárias podem utilizar logotipo próprio, mas apenas em caráter excepcional e após aprovação do Conselho Universitário."
+          ],
+          "answer_relevancy": 0.48464219138879017,
+          "faithfulness": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "As reuniões de órgãos colegiados da UNICAMP podem ser gravadas?",
+          "ground_truths": [
+               "As gravações das reuniões de órgãos colegiados da Universidade têm como finalidade subsidiar a elaboração da ata pelo servidor que secretaria a sessão. Após a aprovação da ata, esse é o documento oficial da sessão realizada, conforme previsto, por exemplo, no artigo 60 da Deliberação CONSU-A-002/1987. Assim, a decisão sobre a gravação ou não das reuniões realizadas remotamente compete ao próprio órgão colegiado, que deverá avaliar se há necessidade da gravação para posterior elaboração de ata ou se esta pode ser realizada durante a sessão. Se realizada, a gravação poderá ser arquivada por cada secretaria ou poderá ser armazenada em repositório da Unidade, decisão discricionária das chefias de cada órgão ou unidade."
+          ],
+          "answer": "sim",
+          "contexts": [
+               "De acordo com o trecho 'Artigo 7º  - Os áudios e vídeos das reuniões ordinárias, extraordinárias, assembleias ou similares poderão ser divulgados, considerando a publicidade das reuniões realizadas pelos órgãos colegiados da Unicamp e as disposições da Lei Federal no 12.527/2011, que estabelece a publicidade como regra e o sigilo como exceção' de [Deliberação CAD-A-002/2020], as reuniões de órgãos colegiados da Unicamp podem ser gravadas."
+          ],
+          "answer_relevancy": 0.2273459773925818,
+          "faithfulness": 1.0,
+          "context_recall": 0.2,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "As gravações podem ser disponibilizadas a terceiros?",
+          "ground_truths": [
+               "Quanto à divulgação dos áudios e vídeos das reuniões, o artigo 7º da Deliberação CAD-A-002/2020, que dispõe sobre a realização de reuniões e assembleias da UNICAMP à distância e a votação via sistema eletrônico, prevê: “Artigo 7º - Os áudios e vídeos das reuniões ordinárias, extraordinárias, assembleias ou similares poderão ser divulgados, considerando a publicidade das reuniões realizadas pelos órgãos colegiados da Unicamp e as disposições da Lei Federal no 12.527/2011, que estabelece a publicidade como regra e o sigilo como exceção”. Portanto, os assuntos discutidos em referidas reuniões, salvo expressa disposição em contrário que justifique algum tipo de sigilo, são públicos e passíveis de ser divulgados à comunidade, independentemente de solicitações (artigo 3º, inciso II, da Lei nº 12.527/2011)."
+          ],
+          "answer": "Não",
+          "contexts": [
+               "De acordo com a Cláusula 7.3 da [Deliberação CONSU-A-017/2020], \"O PESQUISADOR VISITANTE CONVIDADO assegura que as “Informações Confidenciais” a que tiver acesso, sejam da Unicamp ou de terceiros disponibilizadas à Unicamp, não serão mecanicamente copiadas ou de qualquer outra forma reproduzidas, divulgadas, publicadas, nem serão circuladas.\""
+          ],
+          "answer_relevancy": 0.10944444105749966,
+          "faithfulness": 1.0,
+          "context_recall": 0.3333333333333333,
+          "context_precision": 0.0
+     },
+     {
+          "question": "As pautas, atas e deliberações dos órgãos colegiados também podem ser divulgadas a terceiros?",
+          "ground_truths": [
+               "Nos termos da Lei Federal nº 12.527/2011, pautas, atas e deliberações dos órgãos colegiados são públicos, com exceção daqueles que mantenham alguma restrição legal de acesso, tais como no caso de informações bancárias ou fiscais, informações pessoais, ou classificadas como sigilosas pela Administração, entre outros casos previstos na Lei n.º 12.527/2011. Por outro lado, quanto aos documentos que instruem as pautas das reuniões colegiadas e que são necessários para as decisões tomadas pelos seus membros, a matéria deve ser analisada sob a ótica da ponderação entre o dever de transparência e o respeito e a preservação aos eventuais dados pessoais neles contidos. Em relação a esses documentos em si, o acesso deve ser disponibilizado apenas aos membros dos Colegiados e às pessoas a que se referirem, já que o acesso irrestrito pode ensejar eventual violação à Lei Geral de Proteção de Dados (Lei n.º 13.709/2018). E, caso haja intenção de acesso a algum desses documentos por parte de qualquer cidadão, o pedido poderá ser analisado no âmbito do Serviço de Informações ao Cidadão - SIC, com a proteção das informações eventualmente sigilosas e/ou pessoais."
+          ],
+          "answer": "Dependendo da decisão do Plenário.",
+          "contexts": [
+               "De acordo com o trecho '§ 2º.  O Plenário decidirá sobre a tramitação e a divulgação, parcial ou total, de assunto considerado sigiloso' de [Deliberação CONSU-A-002/1987], a divulgação de pautas, atas e deliberações dos órgãos colegiados a terceiros depende de decisão do Plenário sobre a tramitação e divulgação de assuntos considerados sigilosos."
+          ],
+          "answer_relevancy": 0.2611559150503475,
+          "faithfulness": 1.0,
+          "context_recall": 0.25,
+          "context_precision": 0.0
+     },
+     {
+          "question": "Servidor técnico-administrativo da UNICAMP pode ser sócio ou exercer atividades em empresa privada?",
+          "ground_truths": [
+               "O servidor técnico administrativo da UNICAMP pode ser sócio ou exercer atividade em empresas privadas, desde que: - não haja prejuízo ao cumprimento do seu horário de trabalho na UNICAMP; - não participe da gerência ou administração de empresa ou sociedade comercial e de comerciar ou ter parte em sociedade comercial que mantenha relações com o Estado (isto é, a UNICAMP e as demais entidades da administração pública direta e indireta do Estado de São Paulo e mesmo os serviços contratados no âmbito de Convênios firmados pela UNICAMP), nos termos dos incisos XVII e XVIII do artigo 164 do ESUNICAMP[1] e  Resolução GR-051/2019[2]; - as atividades a serem realizadas pelo servidor, mesmo fora das horas de trabalho, junto à empresa ou sociedade comercial que tenham relação com o Estado, não se relacionem com as funções que o mesmo desempenha no âmbito da UNICAMP, nos termos do inciso XIX do artigo 164 do ESUNICAMP[3];  - não celebre contratos de natureza comercial, industrial ou de prestação de serviços com fins lucrativos com o Estado, mesmo como representante de outrem, nos termos do inciso XVI do artigo 164 do ESUNICAMP[4]; [1] “Art. 164 – Ao servidor é proibido: XVII – participar de gerência ou administração de qualquer tipo de empresa ou sociedade comercial que mantenha relações administrativas ou de comércio com o Estado; XVIII – comerciar ou ter parte em sociedades comerciais nas condições mencionadas no inciso anterior, podendo, no entanto, em qualquer caso, ser acionista, quotista ou comandatário;” [2] Resolução GR-051/2019 “Art. 1º. Nos termos do inciso XVII do artigo 164 do ESUNICAMP, é proibido ao servidor público que participa de gerência ou administração de qualquer tipo de empresa ou sociedade comercial, manter relações administrativas ou de comércio, por meio de referida empresa, com as seguintes entidades ou nas seguintes situações: I – Universidade Estadual de Campinas – UNICAMP; II – Entidades da Administração Pública Direta e Indireta do Estado de São Paulo; III – Convênios firmados entre a UNICAMP e entidades públicas ou privadas, nacionais ou internacionais, com ou sem a interveniência da FUNCAMP.” [3] Artigo 164. Ao servidor é proibido: XIX. exercer, mesmo fora das horas de trabalho, emprego ou função em empresas, estabelecimentos ou instituições que tenham relação com o Estado, em matéria que se relacione com a finalidade da Unidade ou serviço em que esteja lotado; [4] “Art. 164 – Ao servidor é proibido: XVI – firmar contratos de natureza comercial, industrial ou de prestação de serviços com fins lucrativos com o Estado, mesmo como representante de outrem;"
+          ],
+          "answer": "Sim, desde que não haja relação administrativa ou de comércio com a UNICAMP ou entidades públicas.",
+          "contexts": [
+               "De acordo com o trecho 'é proibido ao servidor público que participa de gerência ou administração de qualquer tipo de empresa ou sociedade comercial, manter relações administrativas ou de comércio, por meio de referida empresa, com as seguintes entidades ou nas seguintes situações...' de [Resolução GR-051/2019] e o trecho 'comerciar ou ter parte em sociedades comerciais nas condições mencionadas no inciso anterior, podendo no entanto, em qualquer caso, ser acionista, quotista ou comandatário' de [esunicamp], os servidores públicos da UNICAMP estão proibidos de participar de gerência ou administração de empresas ou sociedades comerciais que mantenham relações administrativas ou de comércio com a UNICAMP ou entidades públicas, mas podem ser acionistas, quotistas ou comandatários."
+          ],
+          "answer_relevancy": 0.49195817981283346,
+          "faithfulness": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "Docente da UNICAMP em RDIDP ou regime de dedicação integral pode ser sócio ou exercer atividades em empresa privada?",
+          "ground_truths": [
+               "O docente da UNICAMP em RDIDP ou em regime de dedicação integral pode ser sócio em empresas privadas, desde que: - não tenha atribuições de administração, direção ou exercício de atividades junto à empresa, nos termos da Deliberação CONSU-A-002/2001, que regulamenta o Regime de Dedicação Integral à Docência e à Pesquisa – RDIDP; - não haja prejuízo ao cumprimento do seu horário de trabalho na UNICAMP; - não participe da gerência ou administração de empresa ou sociedade comercial e de comerciar ou ter parte em sociedade comercial que mantenha relações com o Estado (isto é, a UNICAMP e as demais entidades da administração pública direta e indireta do Estado de São Paulo e mesmo os serviços contratados no âmbito de Convênios firmados pela UNICAMP), nos termos dos incisos XVII e XVIII do artigo 164 do ESUNICAMP[1] e  Resolução GR-051/2019[2];  - não celebre contratos de natureza comercial, industrial ou de prestação de serviços com fins lucrativos com o Estado, mesmo como representante de outrem, nos termos do inciso XVI do artigo 164 do ESUNICAMP[3]; Situações relacionadas à inovação deverão ser analisadas pontualmente, considerando a legislação pertinente e a Política Institucional de Inovação da UNICAMP. [1] “Art. 164 – Ao servidor é proibido: XVII – participar de gerência ou administração de qualquer tipo de empresa ou sociedade comercial que mantenha relações administrativas ou de comércio com o Estado; XVIII – comerciar ou ter parte em sociedades comerciais nas condições mencionadas no inciso anterior, podendo, no entanto, em qualquer caso, ser acionista, quotista ou comandatário;” [2] Resolução GR-051/2019 “Art. 1º. Nos termos do inciso XVII do artigo 164 do ESUNICAMP, é proibido ao servidor público que participa de gerência ou administração de qualquer tipo de empresa ou sociedade comercial, manter relações administrativas ou de comércio, por meio de referida empresa, com as seguintes entidades ou nas seguintes situações: I – Universidade Estadual de Campinas – UNICAMP; II – Entidades da Administração Pública Direta e Indireta do Estado de São Paulo; III – Convênios firmados entre a UNICAMP e entidades públicas ou privadas, nacionais ou internacionais, com ou sem a interveniência da FUNCAMP.”  [3] “Art. 164 – Ao servidor é proibido: XVI – firmar contratos de natureza comercial, industrial ou de prestação de serviços com fins lucrativos com o Estado, mesmo como representante de outrem; "
+          ],
+          "answer": "Não, salvo exceções legais.",
+          "contexts": [
+               "De acordo com o trecho 'vedado o exercício de outro cargo, função ou atividade remunerada ou não, em entidades públicas ou privadas, salvo as exceções legais' em [Deliberação CONSU-A-002/2001], [esunicamp] e [REGIMENTO GERAL DA UNIVERSIDADE ESTADUAL DE CAMPINAS], o docente em RDIDP não pode exercer atividades em empresa privada, exceto em casos de exceções legais."
+          ],
+          "answer_relevancy": 0.29021397105593866,
+          "faithfulness": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "Como tramitam as sindicâncias administrativas no âmbito da UNICAMP?",
+          "ground_truths": [
+               "As sindicâncias administrativas deverão tramitar de acordo com os artigos 174 e seguintes do ESUNICAMP, especialmente os artigos 186 a 191 do referido Estatuto."
+          ],
+          "answer": "Por servidor ou comissão de servidores designados pela autoridade competente.",
+          "contexts": [
+               "De acordo com o trecho 'Artigo 18 6. A sindicância administrativa será realizada por servidor ou por comissão de servidores, de condição hierárquica nunca inferior à do sindicado, designada atraves de ato competente, pela autoridade que determinou sua instauração' de [esunicamp], as sindicâncias administrativas no âmbito da UNICAMP são realizadas por servidor ou comissão de servidores designados pela autoridade competente."
+          ],
+          "answer_relevancy": 0.4660557280395408,
+          "faithfulness": 1.0,
+          "context_recall": 0.0,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "Em quais hipóteses deve ser instaurada sindicância administrativa?",
+          "ground_truths": [
+               "Sindicância Administrativa é o meio de apuração de irregularidades cometidas no âmbito da Administração Pública, a fim de elucidar os fatos e/ou indicar sua autoria. A Sindicância será promovida quando a conduta irregular não estiver bem definida ou quando, ainda que definida, desconhecer-se sua autoria. Também serve à apuração de faltas enquadradas como leves e graves, que ensejam a aplicação de penalidade de até 30 (trinta) dias de suspensão."
+          ],
+          "answer": "Quando um docente infringe disposições do RDIDP.",
+          "contexts": [
+               "De acordo com o trecho 'Artigo 20 - O docente que infringir qualquer das disposições que regulamentam o RDIDP poderá ser excluído desse Regime mediante sindicância instaurada por solicitação da CPDIUEC' de [Deliberação CONSU-A-002/2001], a sindicância administrativa deve ser instaurada quando um docente infringe qualquer das disposições que regulamentam o RDIDP."
+          ],
+          "answer_relevancy": 0.08435225431004038,
+          "faithfulness": 1.0,
+          "context_recall": 0.25,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "Quem tem competência para instaurar sindicância administrativa no âmbito da UNICAMP?",
+          "ground_truths": [
+               "Podem instaurar sindicância administrativa, no âmbito da Universidade, o Reitor e os Diretores de Unidades e Órgãos, nos termos do artigo 175 do ESUNICAMP."
+          ],
+          "answer": "A autoridade competente, que pode ser o Reitor ou autoridade delegada.",
+          "contexts": [
+               "De acordo com o trecho 'Artigo 18 6. A sindicância administrativa será realizada por servidor ou por comissão de servidores, de condição hierárquica nunca inferior à do sindicado, designada atraves de ato competente, pela autoridade que determinou sua instauração' de [esunicamp], a autoridade que determinou a instauração da sindicância administrativa tem competência para instaurá-la."
+          ],
+          "answer_relevancy": 0.3471708297293634,
+          "faithfulness": 0.3333333333333333,
+          "context_recall": 0.0,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "Como deve ser a composição da Comissão?",
+          "ground_truths": [
+               "A Sindicância deverá ser instaurada mediante Portaria, que designará os membros da Comissão responsável pela apuração dos fatos (como praxe, três membros). Quando houver um sindicado (investigado) conhecido, os membros não poderão ter condição hierárquica inferior a do mesmo. Além disso, é vedada relação de parentesco ou de afinidade entre os integrantes da Comissão Sindicante e o sindicado. Também não devem compor a Comissão de Sindicância servidores que têm conhecimento sobre o fato investigado e que poderiam servir como testemunhas."
+          ],
+          "answer": "09 membros titulares do CONSU, com representantes de diferentes áreas e categorias.",
+          "contexts": [
+               "De acordo com o trecho 'Artigo 11 – O Conselho Universitário terá as seguintes Comissões Permanentes: ... f) Comissão de Legislação e Normas; g) Comissão de Orçamento e Patrimônio.' de [Deliberação CONSU-A-002/1987] e o trecho '§ 2º. A Comissão de Orçamento e Patrimônio é constituída de 09 membros titulares do próprio CONSU, a saber: 01 Pró-Reitor; 04 Diretores de Unidades de Ensino e Pesquisa, sendo 01 da área de Ciências Exatas, 01 da área de Ciências Biológicas, 01 da área de Ciências Humanas e Artes e 01 da área Tecnológica; 02 membros da representação docente, 01 membro da representação dos servidores não docentes e 01 membro da representação discente.' de [Deliberação CONSU-A-002/1987], a composição da Comissão de Orçamento e Patrimônio é de 09 membros titulares do CONSU, com representantes de diferentes áreas e categorias."
+          ],
+          "answer_relevancy": 0.3992297509043097,
+          "faithfulness": 1.0,
+          "context_recall": 0.0,
+          "context_precision": 0.0
+     },
+     {
+          "question": "Qual o prazo de funcionamento da Comissão?",
+          "ground_truths": [
+               "A sindicância deverá ser concluída em 30 (trinta) dias, podendo ser prorrogada pela autoridade instauradora, por igual período, mediante justificativa fundamentada, desde que apresentada antes do término do prazo inicialmente previsto."
+          ],
+          "answer": "Varia de acordo com o tipo de Comissão e contexto.",
+          "contexts": [
+               "Não há um prazo de funcionamento específico para uma Comissão em geral nos documentos fornecidos. No entanto, há prazos específicos para diferentes Comissões em diferentes contextos. Por exemplo, no Art. 26 da [Constituição Federal], a Comissão mista tem um prazo de um ano para examinar os atos e fatos geradores do endividamento externo brasileiro. Já no Art. 194 da [esunicamp], a Comissão Processante tem um prazo improrrogável de 08 (oito) dias para instalar os trabalhos."
+          ],
+          "answer_relevancy": 0.0,
+          "faithfulness": 1.0,
+          "context_recall": 0.0,
+          "context_precision": 0.0
+     },
+     {
+          "question": "Há ordem específica para oitiva dos investigados e/ou testemunhas?",
+          "ground_truths": [
+               "Em geral, a ordem de convocação dos depoentes é estabelecida pela própria Comissão de Sindicância. Entretanto, no caso de sindicância administrativa que visa apurar fatos atribuídos a um autor conhecido, recomenda-se que o sindicado (investigado) seja ouvido primeiramente pela Comissão, podendo ser acompanhado por seu patrono (advogado ou defensor dativo). Recomenda-se, ainda, que lhe seja garantida a participação na colheita das demais provas, devendo ter amplo acesso aos autos e ser notificado de todas as movimentações que o processo sofrer."
+          ],
+          "answer": "sim, o investigado deve ser ouvido primeiro.",
+          "contexts": [
+               "De acordo com o trecho 'Em geral, a ordem de convocação dos depoentes é estabelecida pela própria Comissão de Sindicância. Entretanto, no caso de sindicância administrativa que visa apurar fatos atribuídos a um autor conhecido, recomenda-se que o sindicado (investigado) seja ouvido primeiramente pela Comissão, podendo ser acompanhado por seu patrono (advogado ou defensor dativo)' de [nan6], há uma ordem específica para a oitiva dos investigados, que devem ser ouvidos primeiramente pela Comissão de Sindicância."
+          ],
+          "answer_relevancy": 0.5382660247472705,
+          "faithfulness": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "Ao final da apuração, como deve proceder a Comissão?",
+          "ground_truths": [
+               "Ao final da apuração, a Comissão de Sindicância irá elaborar Relatório Final, concluindo sobre a existência ou não de infração e autoria. O passo a passo dessa etapa está descrito no Manual de Sindicância acima indicado (no item 'Processamento'). De qualquer modo, ao concluir os trabalhos, a Comissão de Sindicância irá apresentar o Relatório Final à autoridade instauradora, que deverá encaminhar o processo à Procuradoria Geral para análise dos aspectos formais do procedimento, antes da decisão."
+          ],
+          "answer": "Elaborar Relatório Final.",
+          "contexts": [
+               "De acordo com o trecho 'Ao final da apuração, a Comissão de Sindicância irá elaborar Relatório Final, concluindo sobre a existência ou não de infração e autoria' de [nan7], a Comissão de Sindicância deve elaborar um Relatório Final ao final da apuração."
+          ],
+          "answer_relevancy": 0.5575410607469885,
+          "faithfulness": 1.0,
+          "context_recall": 0.3333333333333333,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "Durante o período de suspensão das atividades presenciais da UNICAMP em razão da pandemia, há regras específicas para a condução dos processos de sindicância?",
+          "ground_truths": [
+               "Sim. Nesse momento de suspensão das atividades presenciais, os trabalhos das Comissões de Sindicância da Universidade estão sendo conduzidos de acordo com a Resolução GR-096/2020, disponível no site da Procuradoria Geral."
+          ],
+          "answer": "sim",
+          "contexts": [
+               "De acordo com o trecho 'Sim. Nesse momento de suspensão das atividades presenciais, os trabalhos das Comissões de Sindicância da Universidade estão sendo conduzidos de acordo com a Resolução GR-096/2020, disponível no site da Procuradoria Geral.' de [Resolução GR-096/2020], há regras específicas para a condução dos processos de sindicância durante o período de suspensão das atividades presenciais da UNICAMP em razão da pandemia."
+          ],
+          "answer_relevancy": 0.23764536314500626,
+          "faithfulness": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "No caso de apuração de faltas disciplinares atribuídas a discentes, qual procedimento deve ser adotado no âmbito da Universidade?",
+          "ground_truths": [
+               "Em se tratando de infrações disciplinares atribuídas a discentes, a apuração far-se-á mediante Sindicância Investigativa, Sindicância Disciplinar ou Processo Administrativo Disciplinar – PAD, nos termos dos artigos 235 e seguintes do Regimento Geral da UNICAMP."
+          ],
+          "answer": "Processo Administrativo Disciplinar, que pode incluir Sindicância Investigativa e Sindicância Disciplinar.",
+          "contexts": [
+               "De acordo com o trecho '§ 3º. O Processo Administrativo Disciplinar visa a apuração de infrações disciplinares de natureza grave ou gravíssima imputadas a um autor conhecido e sua eventual punição, com observância dos princípios do contraditório e ampla defesa' de [REGIMENTO GERAL DA UNIVERSIDADE ESTADUAL DE CAMPINAS] e o trecho 'Artigo 235. A apuração das infrações disciplinares far-se-á mediante: I. Sindicância Investigativa; II. Sindicância Disciplinar; III.' de [REGIMENTO GERAL DA UNIVERSIDADE ESTADUAL DE CAMPINAS], no caso de apuração de faltas disciplinares atribuídas a discentes, o procedimento a ser adotado é o Processo Administrativo Disciplinar, que pode incluir Sindicância Investigativa e Sindicância Disciplinar."
+          ],
+          "answer_relevancy": 0.37990794620314433,
+          "faithfulness": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "Como saber qual procedimento deve ser instaurado?",
+          "ground_truths": [
+               "Conforme previsto no artigo 235 do Regimento Geral, a Sindicância Investigativa visa apurar irregularidades imprecisas e buscar elementos ou indícios suficientes de autoria e materialidade do fato, sem gerar, isoladamente, a aplicação de penalidade, não comportando o contraditório e a ampla defesa. A Sindicância Disciplinar visa à apuração de infrações disciplinares de natureza leve, média ou grave imputadas a um autor conhecido e sua eventual punição, com observância dos princípios do contraditório e da ampla defesa. O Processo Administrativo Disciplinar visa à apuração de infrações disciplinares de natureza grave ou gravíssima imputadas a um autor conhecido e sua eventual punição, com observância dos princípios do contraditório e da ampla defesa."
+          ],
+          "answer": "Se houver dúvida sobre a natureza e gravidade da falta, instaurar Processo Administrativo Disciplinar.",
+          "contexts": [
+               "De acordo com o trecho '§ 5º. Havendo dúvida quanto à natureza e gravidade da falta, deverá ser instaurado Processo Administrativo Disciplinar' de [REGIMENTO GERAL DA UNIVERSIDADE ESTADUAL DE CAMPINAS], se houver dúvida sobre a natureza e gravidade da falta, deve ser instaurado um Processo Administrativo Disciplinar."
+          ],
+          "answer_relevancy": 0.16235965146093218,
+          "faithfulness": 1.0,
+          "context_recall": 0.3333333333333333,
+          "context_precision": 0.0
+     },
+     {
+          "question": "Em se tratando de Sindicância Investigativa, como conduzir o procedimento?",
+          "ground_truths": [
+               "Tratando-se de Sindicância Investigativa (artigo 235, § 1º, do Regimento Geral), recomenda-se seguir o procedimento descrito no Manual de Sindicância Administrativa divulgado pela Procuradoria Geral (link acima), cabendo observar, entretanto, que, neste caso, o procedimento não gera, isoladamente, a aplicação de penalidade e não comporta o contraditório e a ampla defesa."
+          ],
+          "answer": "Instaurar mediante Portaria da autoridade competente com até 3 membros que terão 30 dias úteis para apresentar o relatório final.",
+          "contexts": [
+               "De acordo com o trecho '§ 1º. A Sindicância Investigativa visa apurar irregularidades imprecisas e buscar elementos ou indícios suficientes de autoria e materialidade do fato, sem gerar, isoladamente, a aplicação de penalidade, não comportando o contraditório e a ampla defesa.' de [REGIMENTO GERAL DA UNIVERSIDADE ESTADUAL DE CAMPINAS] e o trecho 'A Sindicância Investigativa será instaurada mediante Portaria da autoridade competente, nos termos do artigo 230 deste Regimento Geral, com a indicação de até 03 (três) membros, que terão o prazo de 30 (trinta) dias úteis, constados da instalação dos trabalhos, prorrogável justificadamente, para apresentar seu relatório final.' de [REGIMENTO GERAL DA UNIVERSIDADE ESTADUAL DE CAMPINAS], a Sindicância Investigativa visa apurar irregularidades imprecisas e buscar elementos ou indícios suficientes de autoria e materialidade do fato, sem gerar penalidade, e será instaurada mediante Portaria da autoridade competente com até 3 membros que terão 30 dias úteis para apresentar o relatório final."
+          ],
+          "answer_relevancy": 0.620406443589253,
+          "faithfulness": 1.0,
+          "context_recall": 0.6666666666666666,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "Quem coordenará o Grupo de Trabalho responsável pelo projeto de resíduos recicláveis?",
+          "ground_truths": [
+               "O coordenador do Grupo de Trabalho designado para implementar o projeto de tratamento de resíduos recicláveis é especificado diretamente como 'Prof. Drª. Emília Wanda Rutkowski', responsável por liderar o planejamento e implantação das medidas necessárias durante a pandemia."
+          ],
+          "answer": "Prof. Drª. Emília Wanda Rutkowski",
+          "contexts": [
+               "De acordo com o trecho 'Fica constituído o Grupo de Trabalho para planejar e implantar Projeto Piloto de coleta, tratamento e armazenamento dos resíduos recicláveis gerados na Universidade durante a Pandemia pelo COVID-19, com os membros relacionados abaixo, sob a coordenação do primeiro: Prof. Drª. Emília Wanda Rutkowski...' de [Portaria GR-069/2020], o Grupo de Trabalho será coordenado pela Prof. Drª. Emília Wanda Rutkowski."
+          ],
+          "answer_relevancy": 0.6018342024872914,
+          "faithfulness": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "Quem é o responsável por decidir os recursos interpostos contra atos do Pregoeiro e da Comissão Julgadora de Proposta e/ou Habilitação conforme a resolução mais recente?",
+          "ground_truths": [
+               "Baseado na informação retirada do Resolução GR-018/2018, especificamente em: “d) conhecer e decidir recurso administrativo interposto contra atos do Pregoeiro e da Comissão Julgadora de Proposta e/ou Habilitação e, no caso de não reconsideração da decisão, remetê-lo devidamente informado ao Diretor Executivo de Administração, por intermédio da Procuradoria Geral, para decisão final;”, é evidente que o Diretor Executivo de Administração é o responsável final pelas decisões sobre os recursos interpostos."
+          ],
+          "answer": "Diretor Executivo de Administração.",
+          "contexts": [
+               "De acordo com o trecho 'j) conhecer e decidir recurso interposto contra atos sancionatórios previstos nas alíneas “g” e “h” deste inciso, remetendo-o ao Diretor Executivo de Administração, por intermédio da Procuradoria Geral, no caso de não ocorrer a reconsideração da decisão recorrida;' de [Resolução GR-018/2018], o responsável por decidir os recursos interpostos contra atos do Pregoeiro e da Comissão Julgadora de Proposta e/ou Habilitação é o Diretor Executivo de Administração."
+          ],
+          "answer_relevancy": 0.1075794782688238,
+          "faithfulness": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "Quem são os responsáveis pela coordenação das comissões de graduação, pós-graduação, extensão e pesquisa na FEEC conforme a nova deliberação?",
+          "ground_truths": [
+               "O documento [Deliberação CAD-A-005/2023] menciona no Artigo 1º que os cargos de Presidente da Comissão de Graduação, Coordenador de Pós-Graduação, Coordenador de Extensão e Coordenador de Pesquisa da FEEC são definidos e alterados conforme as normativas recentes da universidade. Estas alterações estão detalhadas no inciso IV do artigo 10, que foi alterado para incluir essas designações."
+          ],
+          "answer": "Presidente da Comissão de Graduação, Coordenador de Pós-Graduação, Coordenador de Extensão e Coordenador de Pesquisa da FEEC.",
+          "contexts": [
+               "De acordo com o trecho 'Artigo 1º  - Fica alterado o inciso IV do artigo 10 da  Deliberação CONSU-A-031/2013 , que passa a vigorar com a seguinte redação: “Artigo 10 – (...) (...) IV - pelo Presidente da Comissão de Graduação, pelo Coordenador de Pós-Graduação, pelo Coordenador de Extensão e pelo Coordenador de Pesquisa da FEEC; (...).”' de [Deliberação CAD-A-005/2023], os responsáveis pela coordenação das comissões de graduação, pós-graduação, extensão e pesquisa na FEEC são o Presidente da Comissão de Graduação, o Coordenador de Pós-Graduação, o Coordenador de Extensão e o Coordenador de Pesquisa da FEEC."
+          ],
+          "answer_relevancy": 0.399065256121976,
+          "faithfulness": 1.0,
+          "context_recall": 0.5,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "Qual é o objetivo principal do 'Prêmio Tese Destaque Unicamp?",
+          "ground_truths": [
+               "O objetivo principal do 'Prêmio Tese Destaque Unicamp' é reconhecer e premiar as teses de doutorado de destaque defendidas nos Programas de Pós-Graduação da Unicamp, incentivando assim a busca contínua pela excelência na pesquisa."
+          ],
+          "answer": "Reconhecer e premiar teses de doutorado de destaque e estimular a busca pela excelência na pesquisa.",
+          "contexts": [
+               "De acordo com o trecho 'Artigo 1º  – Fica instituído na Universidade Estadual de Campinas o “Prêmio Tese Destaque Unicamp” com objetivo de reconhecer e premiar as teses de doutorado de destaque, defendidas nos Programas de Pós-Graduação da Unicamp, de forma a estimular a constante busca pela excelência na pesquisa.' de [Deliberação CONSU-A-034/2022], o objetivo principal do 'Prêmio Tese Destaque Unicamp' é reconhecer e premiar as teses de doutorado de destaque e estimular a busca pela excelência na pesquisa."
+          ],
+          "answer_relevancy": 0.5888465163291108,
+          "faithfulness": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "Quais são as competências atribuídas ao Escritório de Produtos Controlados da Unicamp?",
+          "ground_truths": [
+               "Regulação, manutenção de licenças, normatização, órgão central, informação, capacitação, conscientização"
+          ],
+          "answer": "Regularizar, manter licenças, normatizar, atuar como órgão central, informar, ministrar capacitação e promover ações de conscientização.",
+          "contexts": [
+               "De acordo com o trecho 'Artigo 1º  - Fica criado o Escritório de Produtos Controlados da Unicamp, Coordenadoria de Serviços da Diretoria Executiva de Planejamento Integrado (DEPI), que tem como competências: I  - Regular internamente o processo de solicitação, aquisição, distribuição e transporte, armazenagem e utilização de produtos controlados pelo Exército Brasileiro, Polícia Federal e Polícia Civil; II  - Manter vigentes as licenças dos órgãos de controle, providenciando a renovação das mesmas conforme instruções de cada órgão, tomando como base as informações prestadas pelas Unidades de Ensino e Pesquisa e outros órgãos competentes da Unicamp envolvidos no tema; III  - Normatizar e orientar a comunidade sobre o processo interno de controle de produtos controlados pelo Exército Brasileiro, Polícia Federal e Polícia Civil; IV  - Atuar como órgão central, ligado à administração superior, responsável tecnicamente pelo tema, de forma a acompanhar as ações da Universidade e direcionar as adequações, sempre que necessário; V  - Informar à administração superior, periodicamente, a situação atual de cada licença e apontar as necessidades para eventuais regularizações; VI  - Ministrar, ou providenciar contratações visando a capacitação dos envolvidos nos processos relacionados, em especial em relação à segurança, normas internas e legislação geral; VII  - Promover ações de conscientização da comunidade sobre a importância do controle interno desses produtos.' de [Resolução GR-011/2022], as competências do Escritório de Produtos Controlados da Unicamp são: regular internamente o processo de solicitação, aquisição, distribuição e transporte, armazenagem e utilização de produtos controlados; manter vigentes as licenças dos órgãos de controle; normatizar e orientar a comunidade sobre o processo interno de controle de produtos controlados; atuar como órgão central; informar à administração superior; ministrar capacitação; e promover ações de conscientização."
+          ],
+          "answer_relevancy": 0.7865502450366734,
+          "faithfulness": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "Quem pode admitir servidores na UNICAMP?",
+          "ground_truths": [
+               "As admissões, dispensas e demais atos referentes ao pessoal de que trata este decreto, serão feitos por ato do Reitor, publicados no órgão oficial do Estado."
+          ],
+          "answer": "O Reitor da UNICAMP.",
+          "contexts": [
+               "De acordo com o trecho 'admitir e dar posse ao Secretário Geral, ao Coordenador da Administração Geral, ao Procurador de Universidade Chefe, ao Chefe de Gabinete do Reitor e aos demais servidores da Universidade' de [REGIMENTO GERAL DA UNIVERSIDADE ESTADUAL DE CAMPINAS] e o trecho 'A Universidade Estadual de Campinas poderá admitir servidores no regime de \"Servidores Autárquicos\"' de [Decreto Nº 5.655, de 20 de fevereiro de 1975], o Reitor pode admitir servidores na UNICAMP."
+          ],
+          "answer_relevancy": 0.42426819035153485,
+          "faithfulness": 1.0,
+          "context_recall": 1.0,
+          "context_precision": 0.9999999999
+     },
+     {
+          "question": "Quem são os novos membros designados para a Comissão Interna de Biossegurança (CIBio) do CPQBA a partir de 01/02/2021",
+          "ground_truths": [
+               "De acordo com a [Portaria GR-027/2021], 'o Reitor da Universidade Estadual de Campinas, tendo em vista o Ofício CPQBA nº. 002/2021, de 09.02.2021, baixa a seguinte Portaria: Artigo 1º - Ficam designados os membros abaixo relacionados para comporem a Comissão Interna de Biossegurança (CIBio) do Centro Pluridisciplinar de Pesquisas Químicas, Biológicas e Agrícolas – CPQBA, a partir de 01/02/2021, sob a Presidência do primeiro: - Dra. Patrícia Regina Kitaka – Divisão de Bioprocessos - Dra. Valéria Maia Merzel – Divisão de Recursos Microbianos - Dr. Edilberto Princi Portugal – Divisão de Microbiologia - Paulo Ricardo da Silva – Área administrativa - Ana Paula Ferreira de Souza – Divisão Química Analítica."
+          ],
+          "answer": "Dra. Patrícia Regina Kitaka e outros membros não especificados.",
+          "contexts": [
+               "De acordo com o trecho 'Artigo 1º - Ficam designados os membros abaixo relacionados para comporem a Comissão Interna de Biossegurança (CIBio) do Centro Pluridisciplinar de Pesquisas Químicas, Biológicas e Agrícolas – CPQBA, a partir de 01/02/2021, sob a Presidência do primeiro: - Dra. Patrícia Regina Kitaka – Divisão de Bioprocessos - Dra.' de [Portaria GR-027/2021], os novos membros designados para a Comissão Interna de Biossegurança (CIBio) do CPQBA a partir de 01/02/2021 são Dra. Patrícia Regina Kitaka e outros membros não especificados."
+          ],
+          "answer_relevancy": 0.0,
+          "faithfulness": 0.6666666666666666,
+          "context_recall": 1.0,
+          "context_precision": 0.9999999999
+     }
+]
