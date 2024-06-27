@@ -234,11 +234,72 @@
         "context": ["Decreto Nº 5.655, de 20 de fevereiro de 1975"]
     },
     {
-        "question": "Quem são os novos membros designados para a Comissão Interna de Biossegurança (CIBio) do CPQBA a partir de 01/02/2021",
+        "question": "Quem são os novos membros designados para a Comissão Interna de Biossegurança (CIBio) do CPQBA a partir de 01/02/2021?",
         "answer": "De acordo com a [Portaria GR-027/2021], 'o Reitor da Universidade Estadual de Campinas, tendo em vista o Ofício CPQBA nº. 002/2021, de 09.02.2021, baixa a seguinte Portaria: Artigo 1º - Ficam designados os membros abaixo relacionados para comporem a Comissão Interna de Biossegurança (CIBio) do Centro Pluridisciplinar de Pesquisas Químicas, Biológicas e Agrícolas – CPQBA, a partir de 01/02/2021, sob a Presidência do primeiro: - Dra. Patrícia Regina Kitaka – Divisão de Bioprocessos - Dra. Valéria Maia Merzel – Divisão de Recursos Microbianos - Dr. Edilberto Princi Portugal – Divisão de Microbiologia - Paulo Ricardo da Silva – Área administrativa - Ana Paula Ferreira de Souza – Divisão Química Analítica.",
         "category": "augmentation",
         "context": ["Portaria GR-027/2021"]
+    },
+    {
+        "question": "Quais são os requisitos formais para que professores, pesquisadores colaboradores voluntários e alunos possam conduzir veículos oficiais da Unicamp?",
+        "answer": "De acordo com a [Resolução GR-017/2004], Os requisitos formais para a condução de veículos oficiais na Unicamp incluem a necessidade de autorização do Diretor da Unidade, destinada exclusivamente a atividades de pesquisa, e a apresentação de uma cópia da Carteira Nacional de Habilitação compatível com o veículo a ser conduzido.",
+        "category": "augmentation",
+        "context": ["Resolução GR-017/2004"]
+    },
+    {
+        "question": "Quais são os membros constituintes do Conselho de Orientação para Incubadoras de Empresas de Base Tecnológica da UNICAMP?",
+        "answer": "O Conselho de Orientação para Incubadoras de Empresas de Base Tecnológica da UNICAMP é composto por diversos membros, incluindo o Diretor Executivo da INOVA, representantes da comunidade acadêmica da Unicamp, do MCT, do BNDES, do SEBRAE, da SCTDET-SP, do Sistema Fiesp-Ciesp, e da Prefeitura Municipal de Campinas.",
+        "category": "augmentation",
+        "context": ["Resolução GR-065/2004"]
+    },
+    {
+        "question": "Quais são as principais funções do Conselho Superior do Núcleo de Estudos e Pesquisas em Alimentação da UNICAMP?",
+        "answer": "As principais funções do Conselho Superior do Núcleo de Estudos e Pesquisas em Alimentação incluem estabelecer diretrizes gerais e linhas de atuação, aprovar planos anuais e o plano diretor do Núcleo, zelar pela qualidade dos trabalhos realizados, julgar recursos, compor lista tríplice para a escolha do Coordenador, emendar o regimento interno e aprovar o organograma técnico e administrativo do Núcleo.",
+        "category": "augmentation",
+        "context": ["Deliberação CONSU-A-009/2002"]
+    },
+    {
+        "question": "Quais são as condições e restrições impostas aos participantes do Programa de Professor Sênior e Pesquisador Sênior na Unicamp?",
+        "answer": "De acordo com a [Deliberação CONSU-A-015/2024], os participantes do Programa de Professor Sênior e Pesquisador Sênior na Unicamp estão autorizados a realizar atividades acadêmicas relacionadas a ensino, pesquisa e extensão, excluindo-se as funções administrativas e de representação. Além disso, é vedado a esses participantes receber remuneração por atividades vinculadas a convênios da Unicamp, assegurando que a participação no programa seja de caráter estritamente voluntário e sem ônus para a universidade.",
+        "category": "augmentation",
+        "context": ["Deliberação CONSU-A-015/2024"]
+    },
+    {
+        "question": "Qual é a estrutura de duração e os requisitos de conclusão para os cursos de Mestrado e Doutorado no Programa de Pós-Graduação em Radiologia Odontológica na FOP-UNICAMP?",
+        "answer": "Os cursos de Mestrado e Doutorado no Programa de Pós-Graduação em Radiologia Odontológica na FOP-UNICAMP têm durações mínimas de doze e vinte e quatro meses, respectivamente, com máximas de trinta e seis e quarenta e oito meses. Para concluir esses cursos, os alunos devem passar por exames de língua estrangeira, ser aprovados nas disciplinas do programa, passar em exames de qualificação, e, finalmente, desenvolver e defender com sucesso uma dissertação para o Mestrado ou uma tese para o Doutorado.",
+        "category": "augmentation",
+        "context": ["Deliberação CEPE-A-030/2013"]
+    },
+    {
+        "question": "Quais são os órgãos superiores de administração da Universidade Estadual de Campinas?",
+        "answer": "Os órgãos superiores de administração da Universidade Estadual de Campinas, conforme o seu Regimento Geral, são o Conselho Universitário e a Reitoria.",
+        "category": "augmentation",
+        "context": ["Regimento Geral da Universidade Estadual de Campinas"]
+    },
+    {
+        "question": "Como é composto o Conselho Universitário da Universidade Estadual de Campinas e quais são os mandatos dos seus membros?",
+        "answer": "O Conselho Universitário, que é o órgão deliberativo supremo da universidade, inclui membros como o Reitor, o Coordenador Geral da Universidade, Pró-Reitores, Diretores de Institutos e Faculdades, representantes do corpo docente, discente, dos servidores não docentes, o Superintendente do Hospital de Clínicas, representantes das demais carreiras docentes e da comunidade externa. Os mandatos dos membros do Conselho variam, com alguns servindo enquanto durarem seus cargos atuais e outros, como representantes eleitos, servindo por dois anos com possibilidade de recondução.",
+        "category": "augmentation",
+        "context": ["Regimento Geral da Universidade Estadual de Campinas"]
+    },
+    {
+        "question": "Como é estruturada a administração financeira e orçamentária da Universidade Estadual de Campinas?",
+        "answer": "A administração financeira e orçamentária da Universidade Estadual de Campinas é gerenciada como uma unidade orçamentária única. Esta administração ocorre por meio de Unidades Universitárias e Unidades de Despesa, seguindo princípios de não duplicação de recursos para fins idênticos. O órgão setorial centralizado na Administração Superior da Reitoria tem a tarefa de propor normas, coordenar propostas orçamentárias, e analisar custos, entre outras responsabilidades financeiras. As Unidades Universitárias incluem diversos departamentos administrativos e acadêmicos, e cada um opera com um orçamento próprio submetido e aprovado de acordo com as diretrizes da universidade e do estado.",
+        "category": "augmentation",
+        "context": ["Capítulo IV. das finanças e do orçamento"]
+    },
+    {
+        "question": "Quais são os objetivos e requisitos do Programa Formativo Intercultural para Ingressantes pelo Vestibular Indígena?",
+        "answer": "O Programa Formativo Intercultural para Ingressantes pelo Vestibular Indígena (ProFIIVI) da Universidade Estadual de Campinas é um programa de dois semestres obrigatório para estudantes indígenas, com o objetivo de melhorar a política de apoio e permanência desses estudantes na universidade. O programa é uma condição para a matrícula no curso de graduação escolhido pelo estudante no vestibular indígena, sendo necessário completá-lo e ser aprovado para prosseguir nos estudos regulares. O ProFIIVI é composto por oito currículos distintos, correspondentes a diferentes áreas acadêmicas, e o desempenho no programa não influencia o Coeficiente de Rendimento acadêmico nem é contabilizado no tempo total de curso para a graduação.",
+        "category": "augmentation",
+        "context": ["Deliberação CEPE-A-005/2024"]
+    },
+    {
+        "question": "Qual é a estrutura do Perfil Quantitativo Mínimo para ascensão na Carreira de Pesquisador na Faculdade de Ciências Médicas?",
+        "answer": "A Deliberação CAD-A-009/2023 da Universidade Estadual de Campinas estabelece o Perfil Quantitativo Mínimo necessário para a ascensão aos níveis superiores da Carreira de Pesquisador na Faculdade de Ciências Médicas. Para avançar para Pesquisador B, um pesquisador deve acumular pelo menos 190 pontos, distribuídos em projetos de pesquisa, produções de pesquisa, e outras atividades acadêmicas e profissionais. Para avançar para Pesquisador A, são necessários 380 pontos, também distribuídos em categorias semelhantes, mas com requisitos mais elevados em cada categoria. A pontuação é atribuída com base na participação e coordenação em projetos de pesquisa, qualidade e impacto das publicações e contribuições para a instituição e a sociedade.",
+        "category": "augmentation",
+        "context": ["Deliberação CAD-A-009/2023"]
     }
+
     
     
     
